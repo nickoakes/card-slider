@@ -1,0 +1,113 @@
+body {
+    background: #03193d;
+}
+
+a .card {
+    float: left;
+    width: 308px;
+    text-align: justify;
+    margin-right: 13px;
+    margin-bottom: 26px;
+    margin-left: 13px;
+    box-shadow: 1px 1px lightgray;
+    background: white;
+    height: 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.slider {
+    display: flex;
+    width: 1000px;
+    height: 100%;
+    padding: 26px 13px 0px 13px;
+    transition: 'transform ease-out 0.45s';
+    background: #f2f7ff;
+    margin: 0 auto;
+}
+
+.slider-wrapper {
+    display: inline-block;
+    background: #F6F6F6;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.card-text {
+    margin: 19px;
+}
+
+.card-header {
+    margin: 19px;
+}
+
+.card-title {
+    margin: 19px 19px 15px 19px;
+}
+
+.card-heart {
+    position: absolute;
+    bottom: 0;
+    margin: 19px;
+}
+
+.wrapper {
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 23px;
+    font-weight: bold;
+    color: #3A3A3A;
+    margin: 0px 0px 5px 0px;
+    padding: 0px;
+    text-align: left;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ADADAD;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+}
+h3 {
+    font-family: Arial;
+    font-size: 23px;
+    color: #F6F6F6;
+    line-height: 500px;
+}
+
+p {
+    font-family: Arial;
+    font-size: 12px;
+    color: #3A3A3A;
+    line-height: 1.583;
+    display: inline-block;
+    margin-bottom: 19px;
+}
+
+.heart:hover {
+    width: 22px;
+    transition: width 0.3s;
+}
+
+.arrow-container {
+    text-align: center;
+    margin: auto;
+}
+
+.arrow {
+    display: inline-block;
+    vertical-align: top;
+    margin: 26px 8px 24px 8px;
+}
+
+.arrow:hover {
+    cursor: pointer;
+}

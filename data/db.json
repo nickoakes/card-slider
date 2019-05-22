@@ -1,0 +1,85 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "Random Quote Generator",
+      "subtitle": "Javascript, HTML5, CSS3",
+      "text": "A simple JavaScript program that generates a random quote on a button click, or after a short time delay.",
+      "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-1-1.png",
+      "href": "https://nickoakes.github.io/javascript-random-quote-generator/",
+      "is_liked": false
+    },
+    {
+      "id": 2,
+      "title": "List Pagination and Filtering App.",
+      "subtitle": "Javascript, HTML5, CSS3",
+      "text": "An app to paginate a list of 54 student records such that 10 are displayed per page, and pagination links are appended dynamically to the bottom of the page. Also includes a facility to search for a specific record, using the 'keyup' method to update search results in real time.",
+      "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-2-1.png",
+      "href": "https://nickoakes.github.io/javascript-list-pagination-and-filtering-app/",
+      "is_liked": false
+    },
+    {
+      "id": 3,
+      "title": "Interactive Form",
+      "subtitle": "JavaScript, HTML5, CSS3, jQuery, Regular Expressions",
+      "text": "An interactive form for retrieving and validating information entered by users, built using vanilla JS, jQuery and regular expressions.",
+      "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-3-1.png",
+      "href": "https://nickoakes.github.io/interactive-form/",
+      "is_liked": false
+    },
+    {
+      "id": 5,
+      "title": "Word Guessing Game",
+      "subtitle": "JavaScript, HTML5, CSS3, Object-Oriented Programming",
+      "text": "A 'Hangman'-style game in which the player has to guess the letters in a phrase, for which placeholders are displayed on-screen.",
+      "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-4-1.png",
+      "href": "https://nickoakes.github.io/word-guessing-game/",
+      "is_liked": false
+    },
+    {
+      "id": 6,
+      "title": "Public API Request",
+      "subtitle": "JavaScript, HTML5, CSS3, jQuery, API Request",
+      "text": "Make a public API request to retrieve data on 12 employes, before formatting and displaying employee information.",
+      "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-5-1.png",
+      "href": "https://nickoakes.github.io/public-api-request/",
+      "is_liked": false
+    },
+    {
+      "id": 7,
+      "title": "Snooker Score Calculator",
+      "subtitle": "JavaScript, HTML5, CSS3, jQuery",
+      "text": "A single-page snooker score calculator which enables players to record their score for the current frame, and frames/ matches won",
+      "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-6-1.png",
+      "href": "https://nickoakes.github.io/snooker-score-calculator/",
+      "is_liked": false
+    },
+    {
+      "id": 8,
+      "title": "Darts Score Calculator",
+      "subtitle": "JavaScript, HTML5, CSS3, jQuery",
+      "text": "A single-page darts score calculator which enables players to records their score for the current leg and the number of legs won",
+      "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-7-1.png",
+      "href": "https://nickoakes.github.io/darts-score-calculator/",
+      "is_liked": false
+    },
+    {
+      "id": 9,
+      "title": "React Gallery App.",
+      "subtitle": "JavaScript, HTML5, CSS3, React, Axios",
+      "text": "A photo gallery app. built using React which retrieves data using Axios via a Flickr API.",
+      "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-8-1.png",
+      "href": "https://afternoon-forest-82335.herokuapp.com/",
+      "is_liked": false
+    },
+    {
+      "id": 10,
+      "title": "Guess the Rickyism",
+      "subtitle": "JavaScript, HTML5, CSS3, Object-Oriented Programming",
+      "text": "A hangman-style word-guessing game involving the malapropisms and mispronunciations of the Trailer Park Boys character Ricky.",
+      "image_url": "https://nick-oakes-portfolio-site.herokuapp.com/images/project-9-1.png",
+      "href": "https://nickoakes.github.io/guess-the-rickyism/",
+      "is_liked": false
+    }
+  ]
+}
